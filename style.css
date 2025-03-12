@@ -3,7 +3,8 @@ body {
 }
 
 div img {
-  width: 350px;
+  width: 200px;
+  height: 200px;
 }
 
 [alt="14dokkan"] {
@@ -25,4 +26,160 @@ div img {
 
 [alt="dende"] {
   filter: drop-shadow(0 0 50px green);
+}
+[alt="babidi"]{
+  filter: drop-shadow(0 0 50px green);
+}
+[alt="androide13"]{
+  filter: drop-shadow(0 0 50px blue);
+}
+[alt="androide16"]{
+  filter: drop-shadow(0 0 50px yellow);
+}
+[alt="androdie18"]{
+  filter: drop-shadow(0 0 50px purple);
+}
+[alt="bardock"]{
+  filter: drop-shadow(0 0 50px gray);
+}
+[alt="beerus"]{
+  filter: drop-shadow(0 0 50px red);
+}
+[alt="bulma"]{
+  filter: drop-shadow(0 0 50px white);
+}
+[alt="buugordo"]{
+  filter: drop-shadow(0 0 50px pink);
+}
+[alt="cel"]{
+  filter: drop-shadow(0 0 50px yellow);
+}
+[alt="chichi"]{
+  filter: drop-shadow(0 0 50px purple);
+}
+[alt="dende-1"]{
+  filter: drop-shadow(0 0 50px orange);
+}
+[alt="dispo"]{
+  filter: drop-shadow(0 0 50px lime);
+}
+[alt="dodoria"]{
+  filter: drop-shadow(0 0 50px silver);
+}
+[alt="dr-gero"]{
+  filter: drop-shadow(0 0 50px red);
+}
+[alt="yamcha"]{
+  filter: drop-shadow(0 0 50px silver);
+}
+[alt="freezer"]{
+  filter: drop-shadow(0 0 50px fuchsia);
+}
+[alt="ginyu"]{
+  filter: drop-shadow(0 0 50px brown);
+}
+[alt="ginyu-2"]{
+  filter: drop-shadow(0 0 50px aqua);
+}
+[alt="gohan"]{
+  filter: drop-shadow(0 0 50px yellow);
+}
+[alt="goku-n"]{
+  filter: drop-shadow(0 0 50px red);
+}
+[alt="gotenks"]{
+  filter: drop-shadow(0 0 50px gold);
+}
+[alt="kaio-sama"]{
+  filter: drop-shadow(0 0 50px violet);
+}
+[alt="kaio-shin"]{
+  filter: drop-shadow(0 0 50px aquamarine);
+}
+[alt="priest"]{
+  filter: drop-shadow(0 0 50px pink);
+}
+[alt="jiren"]{
+  filter: drop-shadow(0 0 50px blue);
+}
+[alt="kaio-este"]{
+  filter: drop-shadow(0 0 50px white);
+}
+[alt="kaio-oeste"]{
+  filter: drop-shadow(0 0 50px green);
+}
+[alt="kaio-norte"]{
+  filter: drop-shadow(0 0 50px silver);
+}
+[alt="kaio-sur"]{
+  filter: drop-shadow(0 0 50px violet);
+}
+[alt="kaio-s-e"]{
+  filter: drop-shadow(0 0 50px white);
+}
+[alt="kaio-s-n"]{
+  filter: drop-shadow(0 0 50px pink);
+}
+[alt="kaio-s-o"]{
+  filter: drop-shadow(0 0 50px blue);
+}
+[alt="kaio-s-s"]{
+  filter: drop-shadow(0 0 50px yellow);
+}
+[alt="kibito-a"]{
+  filter: drop-shadow(0 0 50px blue);
+}
+[alt="kibito-s"]{
+  filter: drop-shadow(0 0 50px orange);
+}
+[alt="kibito-u"]{
+  filter: drop-shadow(0 050px silver);
+}
+[alt="lunch"]{
+  filter: drop-shadow(0 0 50px gray);
+}
+[alt="marcarita"]{
+  filter: drop-shadow(0 0 50px aqua);
+}
+[alt="satam"]{
+  filter: drop-shadow(0 0 50px white);
+}
+[alt="nail"]{
+  filter: drop-shadow(0 0 50px peru);
+}
+[alt="picolo"]{
+  filter: drop-shadow(0 0 50px chartreuse);
+}
+[alt="raditz"]{
+  filter: drop-shadow(0 0 50px gold);
+}
+[alt="roshi"]{
+  filter: drop-shadow(0 0 50px blue);
+}
+[alt="shin"]{
+  filter: drop-shadow(0 0 50px pink);
+}
+[alt="tenshihan"]{
+  filter: drop-shadow(0 0 50px silver);
+}
+[alt="toppo"]{
+  filter: drop-shadow(0 0 50px orange);
+}
+[alt="trunks"]{
+  filter: drop-shadow(0 0 50px purple);
+}
+[alt="vegeta"]{
+  filter: drop-shadow(0 0 50px gold);
+}
+[alt="vermound"]{
+  filter: drop-shadow(0 0 50px gray);
+}
+[alt="whis"]{
+  filter: drop-shadow(0 0 50px aquamarine);
+}
+[alt="zarbon"]{
+  filter: drop-shadow(0 0 50px deeppink);
+}
+[alt="zeno"]{
+  filter: drop-shadow(0 0 50px greenyellow);
 }
