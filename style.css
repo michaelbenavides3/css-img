@@ -221,7 +221,7 @@ div img {
 }
 
 [alt="vermound"] {
-  filter: drop-shadow(0 0 50px gray);
+  filter: drop-shadow(0 0 50px green);
 }
 
 [alt="whis"] {
@@ -234,7 +234,9 @@ div img {
 
 [alt="zeno"]:hover {
   filter: drop-shadow(0 0 50px greenyellow);
-  border: solid 5px;
+  border: solid;
   background-color: aquamarine;
   cursor: pointer;
+  transition-duration: 3s;
+
 }
