@@ -232,7 +232,9 @@ div img {
   filter: drop-shadow(0 0 50px deeppink);
 }
 
-[alt="zeno"] {
+[alt="zeno"]:hover {
   filter: drop-shadow(0 0 50px greenyellow);
   border: solid 5px;
+  background-color: aquamarine;
+  cursor: pointer;
 }
